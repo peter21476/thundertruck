@@ -1,0 +1,39 @@
+@import '../variables.scss';
+
+.hero-wrapper {
+    width:100%;
+    height:100vh;
+    background: linear-gradient(transparent, $orange);
+    position:relative;
+    .hero-text {
+        display: flex;
+        flex-direction: column;
+        width:500px;
+        margin:0 auto;
+        height:100%;
+        justify-content: center;
+        img {
+            width:100%;
+            height:auto;
+        }
+    }
+    .video-background {
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100vh;
+        z-index:-1;
+        video {
+            width:100%;
+            height:100vh;
+            object-fit: cover;
+        }
+    }
+}
+
+@media (max-width:499px) {
+    .hero-text {
+        width:90% !important;
+    }
+}

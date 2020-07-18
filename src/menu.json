@@ -1,0 +1,181 @@
+{
+    "thunderMenu": [
+        {
+            "dishTitle": "Thunder Burger",
+            "dishDetails": "Cheddarost, lök, tomat, sallad, hamburgare sås, Brioche Bröd",
+            "dishPhoto": "https://www.thundertruck.se/images/Burger3.png",
+            "dishLogo": "https://www.thundertruck.se/images/logo-thunderburger.png",
+            "dishPrice": "",
+            "dishSinglePrice": "85kr",
+            "dishDoublePrice": "105kr"
+        },
+        {
+            "dishTitle": "High Voltage",
+            "dishDetails": "Cheddarost, bacon, ägg, sallad, tomat, BBQ sås,Brioche Bröd",
+            "dishPhoto": "https://www.thundertruck.se/images/Burger1.png",
+            "dishLogo": "https://www.thundertruck.se/images/logo-highvoltage.png",
+            "dishPrice": "",
+            "dishSinglePrice": "95kr",
+            "dishDoublePrice": "115kr"
+        },
+        {
+            "dishTitle": "TNT Burger",
+            "dishDetails": "Peppar Jackost, sallad, tomat, jalapenos, bacon, Siracha Mayo",
+            "dishPhoto": "https://www.thundertruck.se/images/Burger2.png",
+            "dishLogo": "https://www.thundertruck.se/images/logo-tnt.png",
+            "dishPrice": "",
+            "dishSinglePrice": "95kr",
+            "dishDoublePrice": "115kr"
+        },
+        {
+            "dishTitle": "Dirty Deeds",
+            "dishDetails": "Grillad Hallumiburgare,  sallad, tomat, lök,  sweet chilli sås",
+            "dishPhoto": "https://www.thundertruck.se/images/Burger5.png",
+            "dishLogo": "https://www.thundertruck.se/images/logo-dirtydeeds.png",
+            "dishPrice": "",
+            "dishSinglePrice": "100kr",
+            "dishDoublePrice": "120kr"
+        }
+    ],
+    "dipsMenu": [
+        {
+            "dishTitle": "Shiracha Mayo",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Tryffel Mayo",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Cheddar",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Hamburgare sås",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Sweetchilli sås",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "BBQ sås",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        }
+    ],
+    "kidsMenu": [
+        {
+            "dishTitle": "Burger",
+            "dishDetails": "(120 grams) cheddarost, burgaresås, liten fries",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "35kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Grilled Korv",
+            "dishDetails": "liten fries",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "35kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        }
+    ],
+    "sidesMenu": [
+        {
+            "dishTitle": "Fries",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "20kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Parmesan Fries",
+            "dishDetails": "fries med parmesanost",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "25kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Grumbled Feta w/Oregano Fries",
+            "dishDetails": "fries med fetaost och oregano",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "30kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Sweat Potato Fries",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "30kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Läsk",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "15kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Bacon",
+            "dishDetails": "",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "6kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        },
+        {
+            "dishTitle": "Garmr",
+            "dishDetails": "Korv med bröd ",
+            "dishPhoto": "",
+            "dishLogo": "",
+            "dishPrice": "20kr",
+            "dishSinglePrice": "",
+            "dishDoublePrice": ""
+        }
+    ]
+}

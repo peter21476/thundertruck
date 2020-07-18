@@ -1,0 +1,38 @@
+.food-item-wrapper {
+    background:white;
+    padding:10px;
+    flex: 1 0 45%; /* explanation below */
+    .inner-wrapper {
+        background:#f5f5f5;
+        padding:20px;
+        height:100%;
+        .item-photo {
+            padding:20px 0px;
+            height:280px;
+            img {
+                max-width:300px;
+                height:auto;
+            }
+        }
+        .item-logo {
+            padding-bottom:30px;
+            img {
+                max-width:250px;
+                height:auto;
+            }
+        }
+        .item-description {
+            color:#000;
+            padding-bottom:30px;
+        }
+        .item-price {
+            color:#000;
+        }
+    }
+}
+
+@media (max-width:400px) {
+    .food-item-wrapper .inner-wrapper .item-photo img {
+        max-width:250px !important;
+    }
+}

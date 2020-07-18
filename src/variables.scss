@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigshot+One&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+$font-headers: 'Bigshot One', cursive;
+$font-text: 'Open Sans', sans-serif;
+
+
+$black: #0b0c10;
+$darkgray: #1f2833;
+$lightgray: #c5c6c7;
+$lightgreen: #66fcf1;
+$darkgreen: #45a29e;
+$orange: #F7941D;
+$lightblue: #2BABE2;
+
+h1, h2, h3, h4, h5, h6 {
+    color:$orange;
+}
